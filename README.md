@@ -1,5 +1,6 @@
 # DeepGesture
  Paper on Gesture Recognition using CNN 
+
 Note: Ali Alani wrote the code and any emails regarding the code should be sent to ali.alani616@gmail.com
 
  Paper can be found here: https://ieeexplore.ieee.org/document/8392660

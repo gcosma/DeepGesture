@@ -1,5 +1,5 @@
 # DeepGesture
- Paper on Gesture Recognition using CNN 
+ Paper on "Hand gesture recognition using an adapted convolutional neural network with data augmentation"
 
 Note: Ali Alani wrote the code and any emails regarding the code should be sent to ali.alani616@gmail.com
 
